@@ -6,6 +6,9 @@ W celu prawidłowego uruchomienia projektu w środowisku Vue należy wykonać po
 
 2.Należy zainstalować wszystkie wymagane paczki:
 
+Vite
+npm install vite
+
 Vuetify
 npm install vuetify
 npm install @mdi/font
